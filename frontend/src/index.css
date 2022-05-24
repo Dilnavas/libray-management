@@ -1,0 +1,29 @@
+main {
+  min-height: 90vh;
+  background-color: #ffff;
+}
+
+.card {
+  height: 550px;
+}
+
+.bar {
+  background-color: transparent !important;
+}
+
+.brand {
+  color: black !important;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.home h1 {
+  color: black;
+}
+p {
+  width: 300px;
+  padding-top: 100px;
+}
+h2 {
+  padding: 10px 0px;
+}
